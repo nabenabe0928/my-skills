@@ -1,3 +1,8 @@
+---
+name: New Entry
+about: Create a new entry
+---
+
 # Key Accomplishments
 
 ### Keywords
